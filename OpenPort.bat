@@ -1,0 +1,1 @@
+netsh advfirewall firewall add rule name="RLS" dir=in action=allow protocol=TCP localport=6677
